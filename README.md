@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi there 👋I am Patience Awodi.
+currently learning Data Analysis with Dahel Techies
+i an intrested in Data Visualization 
+Im looking to collaborate on data analtyical projects and make meaningful connections
+Pronouns She/Her
+I can be reached on Patienceubi90@gmail.com
 
 <!--
 **patienceAwodi/patienceAwodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
