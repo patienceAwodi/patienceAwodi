@@ -6,7 +6,8 @@
  -🔭  I’m currently learning Data Analysis with Dahel Techies
     i am intrested in Data Visualisation tools,Excel,power BI,Tableau,Phyton
 - 👯 I’m looking to collaborate on data analtyical projects and make meaningful connections...
-- 📫 How to reach me via email patienceubi90@gmail.com or via 
+- 📫 How to reach me via email patienceubi90@gmail.com or via www.linkedin.com/in/patience-awodi
+
 - 😄 Pronouns:She/Her
 - ⚡ Fun fact:I love cooking,reading and im never tired of learning new things cos im quite adventourous.
 --> 
