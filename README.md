@@ -1,21 +1,14 @@
-## Hi there 👋I am Patience Awodi.
-currently learning Data Analysis with Dahel Techies
-i an intrested in Data Visualization 
-Im looking to collaborate on data analtyical projects and make meaningful connections
-Pronouns She/Her
-I can be reached on Patienceubi90@gmail.com
 
 <!--
 **patienceAwodi/patienceAwodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+   ## Hi there 👋I am Patience Awodi.
+- 🔭 I’m currently working on a project
+- 🌱 I’m currently learning Data Analysis with Dahel Techies
+    i an intrested in learning Data analysis,Excel,power BI,Tableau Excel,Phyton
+- 👯 I’m looking to collaborate on data analtyical projects and make meaningful connections...
+- 📫 How to reach me via email patienceubi90@gmail.com or via 
+- 😄 Pronouns:She/Her
+- ⚡ Fun fact:I love cooking,reading and im never tired of learning new things cos im quite adventourous.
 -->
